@@ -1,0 +1,53 @@
+/*
+    @author Admors - Admors#5538
+    @version 1.0
+    @description This is a music pack for Arma 3, Please understand that the creation of this code took a long time. Please do not copy or modify it without the author’s permission.
+*/  
+
+class cfgPatches
+{
+    class AMP
+    {
+        author[] = {"Admors"};
+        requiredAddons[] = {};
+        requiredVersion = 1.0;
+        units[] = {};
+        weapons[] = {};
+    };
+};
+
+class cfgMusicClasses
+{
+    class AMP_ATMOSPHERE
+    {
+        displayName = "AM - Atmosphere";
+    };
+
+    class AMP_STEALTHY
+    {
+        displayName = "AM - Stealthy";
+    };
+
+    class AMP_EPIC
+    {
+        displayName = "AM - Epic";
+    };
+
+    class AMP_MELODIOUS
+    {
+        displayName = "AM - Melodious";
+    };
+
+    class AMP_OTHERS
+    {
+        displayName = "AM - Others";
+    };
+};
+
+class CfgMusic {
+    #include "./config/atmosphere.cpp"
+    #include "./config/stealthy.cpp"
+    #include "./config/epic.cpp"
+    #include "./config/melodious.cpp"
+    #include "./config/others.cpp"
+};

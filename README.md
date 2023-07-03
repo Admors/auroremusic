@@ -32,15 +32,60 @@
 > - https://www.youtube.com/watch?v=e4Rcasx-ImY&list=PLEWcXtioX9wR-DDZ2ujZ-GMgE24fiZnyo&index=14 - General Loathsom Battle Strategy 188 Seconds
 > - https://www.youtube.com/watch?v=cRXFxzD39BA&list=PLEWcXtioX9wR-DDZ2ujZ-GMgE24fiZnyo&index=15 - Jedi Don't Run! 83 Seconds
 > - https://www.youtube.com/watch?v=6mjL5t1xXwk&list=PLEWcXtioX9wR-DDZ2ujZ-GMgE24fiZnyo&index=16 - Obi-Wan's Negotiation 128 Seconds
-> - 
-> -
-> - 
-> -
 > #### Epic
 > - https://www.youtube.com/watch?v=if9SBw-dC78 - Republic Clone Army March 242 Seconds
+> -
+> -
+> -
+> -
+> -
+> -
+> -
+> -
+> -
+> -
+> -
+> -
+> -
+> -
+> -
+> -
 > #### Stealthy
 > - https://www.youtube.com/watch?v=9Radw-JUln8&list=PLBR3QRdskWLMf4yN7IRhtlZTz5OxBodWd - Improvised Entry SWRC 93 Seconds
+> -
+> -
+> -
+> -
+> -
+> -
+> -
+> -
+> -
+> -
+> -
+> -
+> -
+> -
+> -
+> -
 > #### Melodious
 > - https://www.youtube.com/watch?v=rzDPk8tqwvQ - Order 66 Sad - I'm So Sorry & Anakin's Betrayal 307 Seconds 
+> -
+> -
+> -
+> -
+> -
+> -
+> -
+> -
+> -
+> -
+> -
+> -
+> -
+> -
+> -
+> -
 > #### Other
 > - https://www.youtube.com/watch?v=EsvfptdFXf4 - Cantina Band 164 Seconds 
+> - Sound End 2 Seconds 

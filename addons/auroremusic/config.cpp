@@ -45,9 +45,9 @@ class cfgMusicClasses
 };
 
 class CfgMusic {
-    #include "./config/atmosphere.cpp"
-    #include "./config/stealthy.cpp"
-    #include "./config/epic.cpp"
-    #include "./config/melodious.cpp"
-    #include "./config/others.cpp"
+    #include ".\configs\atmosphere.cpp"
+    #include ".\configs\stealthy.cpp"
+    #include ".\configs\epic.cpp"
+    #include ".\configs\melodious.cpp"
+    #include ".\configs\others.cpp"
 };

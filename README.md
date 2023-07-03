@@ -15,12 +15,12 @@
 
 ### 🧑‍💻 Thème(s)
 > #### Atmosphere
->  - https://www.youtube.com/watch?v=OL3d5ZoBIAI - Yoda's Theme 214 Seconds
+>  [X] https://www.youtube.com/watch?v=OL3d5ZoBIAI - Yoda's Theme 214 Seconds
 > #### Epic
->  - https://www.youtube.com/watch?v=if9SBw-dC78 - Republic Clone Army March 242 Seconds
+>  [X] https://www.youtube.com/watch?v=if9SBw-dC78 - Republic Clone Army March 242 Seconds
 > #### Stealthy
->  - https://www.youtube.com/watch?v=9Radw-JUln8&list=PLBR3QRdskWLMf4yN7IRhtlZTz5OxBodWd - Improvised Entry SWRC 93 Seconds
+>  [X] https://www.youtube.com/watch?v=9Radw-JUln8&list=PLBR3QRdskWLMf4yN7IRhtlZTz5OxBodWd - Improvised Entry SWRC 93 Seconds
 > #### Melodious
->  - https://www.youtube.com/watch?v=rzDPk8tqwvQ - Order 66 Sad - I'm So Sorry & Anakin's Betrayal 307 Seconds 
+>  [X] https://www.youtube.com/watch?v=rzDPk8tqwvQ - Order 66 Sad - I'm So Sorry & Anakin's Betrayal 307 Seconds 
 > #### Other
->  - https://www.youtube.com/watch?v=EsvfptdFXf4 - Cantina Band 164 Seconds 
+>  [X] https://www.youtube.com/watch?v=EsvfptdFXf4 - Cantina Band 164 Seconds 

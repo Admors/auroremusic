@@ -7,6 +7,7 @@
 
 ## 🏢 Aurore Studio
 > [Discord](https://discord.gg/JMZukzqDGx)
+> [Addons Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2156476698)
 
 ## 🤝 Contributeurs
 > + [Admors](https://steamcommunity.com/profiles/76561198134513977/)
@@ -52,22 +53,13 @@
 > - [Droids Approaching 125 Seconds](https://www.youtube.com/watch?v=5D3skEpZ5xQ&list=PLEWcXtioX9wTiOu1YWtMrBbtrLugtC6Kz&index=17)
 > #### Stealthy
 > - [Improvised Entry SWRC 93 Seconds](https://www.youtube.com/watch?v=9Radw-JUln8&list=PLBR3QRdskWLMf4yN7IRhtlZTz5OxBodWd)
-> - [Seconds]()
-> - [Seconds]()
-> - [Seconds]()
-> - [Seconds]()
-> - [Seconds]()
-> - [Seconds]()
-> - [Seconds]()
-> - [Seconds]()
-> - [Seconds]()
-> - [Seconds]()
-> - [Seconds]()
-> - [Seconds]()
-> - [Seconds]()
-> - [Seconds]()
-> - [Seconds]()
-> - [Seconds]()
+> - [Jawas Attack 227 Seconds](https://www.youtube.com/watch?v=kzkOHxuWGv4&list=PLEWcXtioX9wRjXhz1wRfNTEOlky2jSDeB&index=3)
+> - [Second Thoughts 260 Seconds](https://www.youtube.com/watch?v=86BQFamiXSY&list=PLEWcXtioX9wRjXhz1wRfNTEOlky2jSDeB&index=5)
+> - [The Hangar 367 Seconds](https://www.youtube.com/watch?v=Y3bFORxzR7Y&list=PLEWcXtioX9wRjXhz1wRfNTEOlky2jSDeB&index=7)
+> - [Infiltrating Ziro's Lair 142 Seconds]()
+> - [Prison Cell Talk 187 Seconds](https://www.youtube.com/watch?v=Ezgig1pKqfU&list=PLEWcXtioX9wRjXhz1wRfNTEOlky2jSDeB&index=11)
+> - [Zam the Assassin and the Chase Throuh Coruscant 667 Seconds](https://www.youtube.com/watch?v=xjZiZaCXAfE&list=PLEWcXtioX9wRjXhz1wRfNTEOlky2jSDeB&index=12)
+> - [The Tusken Camp and the Homestead 355 Seconds](https://www.youtube.com/watch?v=XDK9M_3yLN8&list=PLEWcXtioX9wRjXhz1wRfNTEOlky2jSDeB&index=14)
 > #### Melodious
 > - [Order 66 Sad - I'm So Sorry & Anakin's Betrayal 307 Seconds](https://www.youtube.com/watch?v=rzDPk8tqwvQ ) 
 > - [Seconds]()

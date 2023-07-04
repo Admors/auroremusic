@@ -1,8 +1,4 @@
-<<<<<<< HEAD
    #define STEALTHY musicClass = "AMP_STEALTHY";
-=======
-   #define STEALTHY musicClass = "AMP_MELODIOUS";
->>>>>>> 299e94a852547c9b278ec1c3ad15befe52050ec8
     class AMP_STEALTHY_Music_1
     {
         name = "Improvised Entry SWRC";

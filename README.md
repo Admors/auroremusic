@@ -55,11 +55,9 @@
 > - [Improvised Entry SWRC 93 Seconds](https://www.youtube.com/watch?v=9Radw-JUln8&list=PLBR3QRdskWLMf4yN7IRhtlZTz5OxBodWd)
 > - [Jawas Attack 227 Seconds](https://www.youtube.com/watch?v=kzkOHxuWGv4&list=PLEWcXtioX9wRjXhz1wRfNTEOlky2jSDeB&index=3)
 > - [Second Thoughts 260 Seconds](https://www.youtube.com/watch?v=86BQFamiXSY&list=PLEWcXtioX9wRjXhz1wRfNTEOlky2jSDeB&index=5)
-> - [The Hangar 367 Seconds](https://www.youtube.com/watch?v=Y3bFORxzR7Y&list=PLEWcXtioX9wRjXhz1wRfNTEOlky2jSDeB&index=7)
-> - [Infiltrating Ziro's Lair 142 Seconds]()
-> - [Prison Cell Talk 187 Seconds](https://www.youtube.com/watch?v=Ezgig1pKqfU&list=PLEWcXtioX9wRjXhz1wRfNTEOlky2jSDeB&index=11)
+> - [Sneaking Under the Shield 265 Seconds](https://www.youtube.com/watch?v=Y3bFORxzR7Y&list=PLEWcXtioX9wRjXhz1wRfNTEOlky2jSDeB&index=7)
+> - [Infiltrating Ziro's Lair 142 Seconds](https://www.youtube.com/watch?v=U0_kw0t-Lnk&list=PLEWcXtioX9wRjXhz1wRfNTEOlky2jSDeB&index=10)
 > - [Zam the Assassin and the Chase Throuh Coruscant 667 Seconds](https://www.youtube.com/watch?v=xjZiZaCXAfE&list=PLEWcXtioX9wRjXhz1wRfNTEOlky2jSDeB&index=12)
-> - [The Tusken Camp and the Homestead 355 Seconds](https://www.youtube.com/watch?v=XDK9M_3yLN8&list=PLEWcXtioX9wRjXhz1wRfNTEOlky2jSDeB&index=14)
 > #### Melodious
 > - [Order 66 Sad - I'm So Sorry & Anakin's Betrayal 307 Seconds](https://www.youtube.com/watch?v=rzDPk8tqwvQ ) 
 > - [Main Title Rebel BLockade / Runner Medley 135 Seconds](https://www.youtube.com/watch?v=x2J5Oifxp7w&list=PLEWcXtioX9wQkwRQRFvT_f9__gSuj3wUw&index=1)

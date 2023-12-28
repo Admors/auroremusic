@@ -1,15 +1,18 @@
-# Aurore Music Pack - Arma 3
+<div align="center">
+  <a href="https://discord.gg/JMZukzqDGx">
+    <img src="https://steamuserimages-a.akamaihd.net/ugc/2015972507375582007/D6CE4159A99B031016AE3721EF4F59E611DDE142/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="logoBanner"/>
+  </a>
+</div>
 
-## 🎫 Version
-> - [ ] **0.0.1**
-> 
-> - auroremusic
+# Aurore Music Pack - Arma 3
+> [!IMPORTANT]  
+> Veuillez noter que le contenu de cette ressource est destiné uniquement à l'usage. Tout accès ou distribution non autorisés sont strictement interdits.
 
 ## 🏢 Aurore Studio
-> [Discord](https://discord.gg/JMZukzqDGx)
-> [Addons Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2156476698)
+> + [Discord](https://discord.gg/JMZukzqDGx)
+> + [Addons Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2156476698)
 
-## 🤝 Contributeurs
+## Contributeurs
 > + [Admors](https://steamcommunity.com/profiles/76561198134513977/)
 > + [Sting](https://steamcommunity.com/profiles/76561198272941463/)
 > + [SnowCode](https://github.com/chopin2712)
@@ -61,21 +64,6 @@
 > #### Melodious
 > - [Order 66 Sad - I'm So Sorry & Anakin's Betrayal 307 Seconds](https://www.youtube.com/watch?v=rzDPk8tqwvQ ) 
 > - [Main Title Rebel BLockade / Runner Medley 135 Seconds](https://www.youtube.com/watch?v=x2J5Oifxp7w&list=PLEWcXtioX9wQkwRQRFvT_f9__gSuj3wUw&index=1)
-> - [Seconds]()
-> - [Seconds]()
-> - [Seconds]()
-> - [Seconds]()
-> - [Seconds]()
-> - [Seconds]()
-> - [Seconds]()
-> - [Seconds]()
-> - [Seconds]()
-> - [Seconds]()
-> - [Seconds]()
-> - [Seconds]()
-> - [Seconds]()
-> - [Seconds]()
-> - [Seconds]()
 > #### Other
 > - [Cantina Band 164 Seconds](https://www.youtube.com/watch?v=EsvfptdFXf4)
 > - Sound End 2 Seconds 

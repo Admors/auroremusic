@@ -1,122 +1,41 @@
-    #define ATMOS musicClass = "AMP_ATMOSPHERE";
-    
-    class AMP_ATMO_Music_1
-    {
-        name = "Yoda's Theme";
-        sound[] = {"auroremusic\amp_ogg\atmos\Yodas_Theme.ogg", 1, 1};
-        duration = 214;
-        ATMOS
-    };
-    class AMP_ATMO_Music_2
-    {
-        name = "Imperial Attack";
-        sound[] = {"auroremusic\amp_ogg\atmos\Imperial_Attack.ogg", 1, 1};
-        duration = 403;
-        ATMOS
-    };
-    class AMP_ATMO_Music_3
-    {
-        name = "The Dune Sea of Tatooine / Jawa Sandcrawler";
-        sound[] = {"auroremusic\amp_ogg\atmos\Dune_Jawa.ogg", 1, 1};
-        duration = 302;
-        ATMOS
-    };
-    class AMP_ATMO_Music_4
-    {
-        name = "The Millennium Falcon Imperial";
-        sound[] = {"auroremusic\amp_ogg\atmos\Millennium_Falcon.ogg", 1, 1};
-        duration = 232;
-        ATMOS
-    };
-    class AMP_ATMO_Music_5
-    {
-        name = "Niamos! (Morlana Club Mix)";
-        sound[] = {"auroremusic\amp_ogg\atmos\Niamos.ogg", 1, 1};
-        duration = 102;
-        ATMOS
-    };
-    class AMP_ATMO_Music_6
-    {
-        name = "Morlana Drop";
-        sound[] = {"auroremusic\amp_ogg\atmos\Morlana_Drop.ogg", 1, 1};
-        duration = 105;
-        ATMOS
-    };
-    class AMP_ATMO_Music_7
-    {
-        name = "Face To Face";
-        sound[] = {"auroremusic\amp_ogg\atmos\Face_to_face.ogg", 1, 1};
-        duration = 313;
-        ATMOS
-    };
-     class AMP_ATMO_Music_8
-    {
-        name = "Bounty Droid";
-        sound[] = {"auroremusic\amp_ogg\atmos\Bounty_Droid.ogg", 1, 1};
-        duration = 183;
-        ATMOS
-    };
-     class AMP_ATMO_Music_9
-    {
-        name = "Celebration";
-        sound[] = {"auroremusic\amp_ogg\atmos\Celebration.ogg", 1, 1};
-        duration = 212;
-        ATMOS
-    };
-     class AMP_ATMO_Music_10
-    {
-        name = "Spirit of the Woods";
-        sound[] = {"auroremusic\amp_ogg\atmos\Spirit_Woods.ogg", 1, 1};
-        duration = 311;
-        ATMOS
-    };
-     class AMP_ATMO_Music_11
-    {
-        name = "A Thousand Tears";
-        sound[] = {"auroremusic\amp_ogg\atmos\A_Thousand_Tears.ogg", 1, 1};
-        duration = 247;
-        ATMOS
-    };
-     class AMP_ATMO_Music_12
-    {
-        name = "Black Skies";
-        sound[] = {"auroremusic\amp_ogg\atmos\Black_Skies.ogg", 1, 1};
-        duration = 278;
-        ATMOS
-    };
-     class AMP_ATMO_Music_13
-    {
-        name = "The Imperial Suite (Rogue One)";
-        sound[] = {"auroremusic\amp_ogg\atmos\Imperial_Suite_RO.ogg", 1, 1};
-        duration = 152;
-        ATMOS
-    };
-     class AMP_ATMO_Music_14
-    {
-        name = "The Jedi Council";
-        sound[] = {"auroremusic\amp_ogg\atmos\Jedi_Council.ogg", 1, 1};
-        duration = 125;
-        ATMOS
-    };
-     class AMP_ATMO_Music_15
-    {
-        name = "General Loathsom Battle Strategy ";
-        sound[] = {"auroremusic\amp_ogg\atmos\General_Strategy.ogg", 1, 1};
-        duration = 188;
-        ATMOS
-    };
-     class AMP_ATMO_Music_16
-    {
-        name = "Jedi Don't Run!";
-        sound[] = {"auroremusic\amp_ogg\atmos\Jedi_Dont_Run.ogg", 1, 1};
-        duration = 83;
-        ATMOS
-    };
-     class AMP_ATMO_Music_17
-    {
-        name = "Obi-Wan's Negotiation";
-        sound[] = {"auroremusic\amp_ogg\atmos\Obi-Wans_Negotiation.ogg", 1, 1};
-        duration = 128;
-        ATMOS
-    };
-  
+/*
+    Fichier: configs\atmosphere.cpp
+    Auteurs: Admors for Arma 3 (Bohemia Interactive)
+    Publique: Non
+
+    Description: Merci de ne pas {Copier,Modifier,Plagier} le contenue suivant sans l'autorisation au préalable de l'Administrateur en charge.       
+*/
+
+MUSIC(ATMO_Music_1, "Yoda's Theme", ATMOS, "auroremusic\amp_ogg\atmos\Yodas_Theme.ogg", 214)
+
+MUSIC(ATMO_Music_2, "Imperial Attack", ATMOS, "auroremusic\amp_ogg\atmos\Imperial_Attack.ogg", 403)
+
+MUSIC(ATMO_Music_3, "The Dune Sea of Tatooine / Jawa Sandcrawler", ATMOS, "auroremusic\amp_ogg\atmos\Dune_Jawa.ogg", 302)
+
+MUSIC(ATMO_Music_4, "The Millennium Falcon Imperial", ATMOS, "auroremusic\amp_ogg\atmos\Millennium_Falcon.ogg", 232)
+
+MUSIC(ATMO_Music_5, "Niamos! (Morlana Club Mix)", ATMOS, "auroremusic\amp_ogg\atmos\Niamos.ogg", 102)
+
+MUSIC(ATMO_Music_6, "Morlana Drop", ATMOS, "auroremusic\amp_ogg\atmos\Morlana_Drop.ogg", 105)
+
+MUSIC(ATMO_Music_7, "Face To Face", ATMOS, "auroremusic\amp_ogg\atmos\Face_to_face.ogg", 313)
+
+MUSIC(ATMO_Music_8, "Bounty Droid", ATMOS, "auroremusic\amp_ogg\atmos\Bounty_Droid.ogg", 183)
+
+MUSIC(ATMO_Music_9, "Celebration", ATMOS, "auroremusic\amp_ogg\atmos\Celebration.ogg", 212)
+
+MUSIC(ATMO_Music_10, "Spirit of the Woods", ATMOS, "auroremusic\amp_ogg\atmos\Spirit_Woods.ogg", 311)
+
+MUSIC(ATMO_Music_11, "A Thousand Tears", ATMOS, "auroremusic\amp_ogg\atmos\A_Thousand_Tears.ogg", 247)
+
+MUSIC(ATMO_Music_12, "Black Skies", ATMOS, "auroremusic\amp_ogg\atmos\Black_Skies.ogg", 278)
+
+MUSIC(ATMO_Music_13, "The Imperial Suite (Rogue One)", ATMOS, "auroremusic\amp_ogg\atmos\Imperial_Suite_RO.ogg", 152)
+
+MUSIC(ATMO_Music_14, "The Jedi Council", ATMOS, "auroremusic\amp_ogg\atmos\Jedi_Council.ogg", 125)
+
+MUSIC(ATMO_Music_15, "General Loathsom Battle Strategy", ATMOS, "auroremusic\amp_ogg\atmos\General_Strategy.ogg", 188)
+
+MUSIC(ATMO_Music_16, "Jedi Don't Run!", ATMOS, "auroremusic\amp_ogg\atmos\Jedi_Dont_Run.ogg", 83)
+
+MUSIC(ATMO_Music_17, "Obi-Wan's Negotiation", ATMOS, "auroremusic\amp_ogg\atmos\Obi-Wans_Negotiation.ogg", 128)

@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
   <a href="https://discord.gg/JMZukzqDGx">
     <img src="https://steamuserimages-a.akamaihd.net/ugc/2015972507375582007/D6CE4159A99B031016AE3721EF4F59E611DDE142/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="logoBanner"/>
   </a>

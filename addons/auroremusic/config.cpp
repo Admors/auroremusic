@@ -1,5 +1,5 @@
 /*
-    @author Admors - Admors#5538
+    @author Admors - Admors#5538 L
     @version 1.0
     @description This is a music pack for Arma 3, Please understand that the creation of this code took a long time. Please do not copy or modify it without the author’s permission.
 */
